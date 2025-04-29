@@ -10,7 +10,7 @@
 <!-- Linguagens de programação que o desenvolvedor conhece -->
 <p align="left">
   <strong>Linguagens:</strong><br>
-  <strong>Java, SQL, HTML, CSS, JavaScript</strong>
+  Java, SQL, HTML, CSS, JavaScript
 </p>
 
 <!-- Exibição de badges das linguagens e tecnologias conhecidas -->
@@ -25,7 +25,7 @@
 <!-- Tecnologias do ecossistema Spring que o desenvolvedor conhece -->
 <p align="left">
    <strong>Ecossistema Spring:</strong><br>
-  <strong>Spring Boot, Spring Data JPA, Spring Security, Spring MVC, Spring Validation, Lombok, Swagger, Maven</strong>
+  Spring Boot, Spring Data JPA, Spring Security, Spring MVC, Spring Validation, Lombok, Swagger, Maven
 </p>
 
 <!-- Exibição de badges das tecnologias do ecossistema Spring -->
@@ -43,7 +43,7 @@
 <!-- Conhecimentos do desenvolvedor em conceitos e padrões -->
 <p align="left">
   <strong>Conhecimentos com:</strong><br>
-  <strong>POO, Arquitetura REST, Token JWT, ORM, Composition Pattern, Comunicação síncrona com Rest Client, Modelagem de BD</strong>
+  POO, Arquitetura REST, Token JWT, ORM, Composition Pattern, Comunicação síncrona com Rest Client, Modelagem de BD
 </p>
 
 <!-- Exibição de badges para os conhecimentos técnicos -->
