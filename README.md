@@ -10,7 +10,7 @@
 <!-- Linguagens de programação que o desenvolvedor conhece -->
 <p align="left">
   <strong>Linguagens:</strong><br>
-  Java, SQL, HTML, CSS, JavaScript
+  Java 21, SQL, HTML 5, CSS 3, JavaScript
 </p>
 
 <!-- Exibição de badges das linguagens e tecnologias conhecidas -->
@@ -68,7 +68,7 @@
 
 <!-- Ferramentas utilizadas no dia a dia do desenvolvedor -->
 <p align="left">
-  <strong>Ferramentas:</strong><br>
+  <strong>Ferramentas de trabalho:</strong><br>
   IntelliJ, Postman, MySQL Workbench, PostgreSQL, Git, GitHub, VS Code
 </p>
 
