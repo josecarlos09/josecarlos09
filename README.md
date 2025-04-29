@@ -85,18 +85,12 @@
 
 <!-- Links para as redes sociais do desenvolvedor -->
 <p align="left">
-  💌 Minhas redes sociais: ⤵️
+  Meu Linkedin: ⤵️
 </p>
 
 <!-- Exibição dos links de contato com ícones -->
 <p align="left">
-  <a href="mailto:josecarlos.2019.nba@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:josecarlos.2019.nba@gmail.com" alt="Gmail"/>
-  </a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-carlos-561294248/" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-carlos-561294248/" alt="LinkedIn"/>
-  </a>
-  <a href="https://wa.me/81973140364" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/81973140364" alt="WhatsApp"/>
   </a>
 </p>
